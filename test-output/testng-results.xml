@@ -11,12 +11,12 @@
       <![CDATA[Application Opened]]>
     </line>
   </reporter-output>
-  <suite started-at="2023-02-02T04:41:12Z" name="Suite1" finished-at="2023-02-02T04:42:22Z" duration-ms="69733">
+  <suite started-at="2023-02-03T02:38:57Z" name="Suite1" finished-at="2023-02-03T02:40:10Z" duration-ms="72707">
     <groups>
     </groups>
-    <test started-at="2023-02-02T04:41:12Z" name="Nopackage" finished-at="2023-02-02T04:42:22Z" duration-ms="69733">
+    <test started-at="2023-02-03T02:38:57Z" name="Nopackage" finished-at="2023-02-03T02:40:10Z" duration-ms="72707">
       <class name="com.hrms.testscripts.TC001">
-        <test-method signature="tc001()[pri:0, instance:com.hrms.testscripts.TC001@24fcf36f]" started-at="2023-02-02T10:11:12Z" name="tc001" finished-at="2023-02-02T10:11:31Z" duration-ms="18818" status="PASS">
+        <test-method signature="tc001()[pri:0, instance:com.hrms.testscripts.TC001@24fcf36f]" started-at="2023-02-03T08:08:57Z" name="tc001" finished-at="2023-02-03T08:09:21Z" duration-ms="23634" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Application Opened]]>
@@ -25,7 +25,7 @@
         </test-method> <!-- tc001 -->
       </class> <!-- com.hrms.testscripts.TC001 -->
       <class name="com.hrms.testscripts.TC002">
-        <test-method signature="tc002()[pri:0, instance:com.hrms.testscripts.TC002@212b5695]" started-at="2023-02-02T10:11:31Z" name="tc002" finished-at="2023-02-02T10:12:03Z" duration-ms="32108" status="PASS">
+        <test-method signature="tc002()[pri:0, instance:com.hrms.testscripts.TC002@212b5695]" started-at="2023-02-03T08:09:21Z" name="tc002" finished-at="2023-02-03T08:09:50Z" duration-ms="29108" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Application Opened]]>
@@ -34,7 +34,7 @@
         </test-method> <!-- tc002 -->
       </class> <!-- com.hrms.testscripts.TC002 -->
       <class name="com.hrms.testscripts.TC003">
-        <test-method signature="tc003()[pri:0, instance:com.hrms.testscripts.TC003@7ea9e1e2]" started-at="2023-02-02T10:12:03Z" name="tc003" finished-at="2023-02-02T10:12:22Z" duration-ms="18793" status="PASS">
+        <test-method signature="tc003()[pri:0, instance:com.hrms.testscripts.TC003@7ea9e1e2]" started-at="2023-02-03T08:09:50Z" name="tc003" finished-at="2023-02-03T08:10:10Z" duration-ms="19945" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Application Opened]]>

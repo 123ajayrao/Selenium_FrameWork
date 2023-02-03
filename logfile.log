@@ -66,3 +66,39 @@
 2023-02-02 10:12:16,614 INFO  [Log] Exit from Frame 
 2023-02-02 10:12:19,053 INFO  [Log] Logout completed 
 2023-02-02 10:12:22,039 INFO  [Log] Application closed 
+2023-02-02 10:43:57,472 INFO  [Log] Application Opened 
+2023-02-02 10:44:01,388 INFO  [Log] Login completed 
+2023-02-02 10:44:04,715 INFO  [Log] Logout completed 
+2023-02-02 10:44:10,685 INFO  [Log] Application closed 
+2023-02-02 10:44:13,729 INFO  [Log] Application Opened 
+2023-02-02 10:44:17,582 INFO  [Log] Login completed 
+2023-02-02 10:44:20,601 INFO  [Log] Entered into Frame 
+2023-02-02 10:44:30,075 INFO  [Log] New Employee Added 
+2023-02-02 10:44:30,093 INFO  [Log] Exit from Frame 
+2023-02-02 10:44:33,483 INFO  [Log] Logout completed 
+2023-02-02 10:44:39,548 INFO  [Log] Application closed 
+2023-02-02 10:44:42,860 INFO  [Log] Application Opened 
+2023-02-02 10:44:43,661 INFO  [Log] Login completed 
+2023-02-02 10:44:43,684 INFO  [Log] Entered into Frame 
+2023-02-02 10:44:53,071 INFO  [Log] Employee Info Deleted 
+2023-02-02 10:44:53,079 INFO  [Log] Exit from Frame 
+2023-02-02 10:44:55,356 INFO  [Log] Logout completed 
+2023-02-02 10:44:58,312 INFO  [Log] Application closed 
+2023-02-03 08:09:04,044 INFO  [Log] Application Opened 
+2023-02-03 08:09:08,011 INFO  [Log] Login completed 
+2023-02-03 08:09:11,451 INFO  [Log] Logout completed 
+2023-02-03 08:09:21,236 INFO  [Log] Application closed 
+2023-02-03 08:09:25,210 INFO  [Log] Application Opened 
+2023-02-03 08:09:29,402 INFO  [Log] Login completed 
+2023-02-03 08:09:32,448 INFO  [Log] Entered into Frame 
+2023-02-03 08:09:42,625 INFO  [Log] New Employee Added 
+2023-02-03 08:09:42,643 INFO  [Log] Exit from Frame 
+2023-02-03 08:09:46,115 INFO  [Log] Logout completed 
+2023-02-03 08:09:50,345 INFO  [Log] Application closed 
+2023-02-03 08:09:54,024 INFO  [Log] Application Opened 
+2023-02-03 08:09:54,895 INFO  [Log] Login completed 
+2023-02-03 08:09:54,928 INFO  [Log] Entered into Frame 
+2023-02-03 08:10:04,538 INFO  [Log] Employee Info Deleted 
+2023-02-03 08:10:04,543 INFO  [Log] Exit from Frame 
+2023-02-03 08:10:06,946 INFO  [Log] Logout completed 
+2023-02-03 08:10:10,291 INFO  [Log] Application closed 
