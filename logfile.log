@@ -102,3 +102,32 @@
 2023-02-03 08:10:04,543 INFO  [Log] Exit from Frame 
 2023-02-03 08:10:06,946 INFO  [Log] Logout completed 
 2023-02-03 08:10:10,291 INFO  [Log] Application closed 
+2023-02-04 11:18:32,475 INFO  [Log] Application Opened 
+2023-02-04 11:18:36,205 INFO  [Log] Login completed 
+2023-02-04 11:18:39,696 INFO  [Log] Logout completed 
+2023-02-04 11:18:45,840 INFO  [Log] Application closed 
+2023-02-04 11:19:23,702 INFO  [Log] Application Opened 
+2023-02-04 11:19:27,657 INFO  [Log] Login completed 
+2023-02-04 11:19:30,691 INFO  [Log] Entered into Frame 
+2023-02-04 11:19:40,823 INFO  [Log] New Employee Added 
+2023-02-04 11:19:40,832 INFO  [Log] Exit from Frame 
+2023-02-04 11:19:44,233 INFO  [Log] Logout completed 
+2023-02-04 11:19:50,424 INFO  [Log] Application closed 
+2023-02-04 11:21:19,368 INFO  [Log] Application Opened 
+2023-02-04 11:21:23,809 INFO  [Log] Login completed 
+2023-02-04 11:21:27,200 INFO  [Log] Logout completed 
+2023-02-04 11:21:33,369 INFO  [Log] Application closed 
+2023-02-04 11:21:37,776 INFO  [Log] Application Opened 
+2023-02-04 11:21:46,426 INFO  [Log] Login completed 
+2023-02-04 11:21:49,456 INFO  [Log] Entered into Frame 
+2023-02-04 11:21:58,019 INFO  [Log] New Employee Added 
+2023-02-04 11:21:58,033 INFO  [Log] Exit from Frame 
+2023-02-04 11:22:01,289 INFO  [Log] Logout completed 
+2023-02-04 11:22:05,451 INFO  [Log] Application closed 
+2023-02-04 11:22:09,648 INFO  [Log] Application Opened 
+2023-02-04 11:22:11,486 INFO  [Log] Login completed 
+2023-02-04 11:22:11,513 INFO  [Log] Entered into Frame 
+2023-02-04 11:22:20,891 INFO  [Log] Employee Info Deleted 
+2023-02-04 11:22:20,916 INFO  [Log] Exit from Frame 
+2023-02-04 11:22:23,202 INFO  [Log] Logout completed 
+2023-02-04 11:22:26,346 INFO  [Log] Application closed 
